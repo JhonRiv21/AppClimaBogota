@@ -62,7 +62,7 @@
   </script>
   
 
-    <main class="lg:min-h-screen relative flex items-stretch justify-center" style="background-image: url({Fondo}); background-size: cover;">
+    <main class="min-h-screen relative flex items-stretch justify-center" style="background-image: url({Fondo}); background-size: cover;">
 
         <section class="w-full lg:w-[80%] py-6 px-5 flex items-center justify-between flex-col lg:flex-row" style="font-family: 'Roboto';">
             <div class="w-full h-full p-5 flex-col flex justify-between rounded-md" style="background-image: url('{Principal}'); background-size: cover;">
